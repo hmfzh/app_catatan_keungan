@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".BaseActivity" />
-        <activity android:name=".MainActivity"/>
+        <activity android:name=".Home"/>
     </application>
 
 </manifest>
